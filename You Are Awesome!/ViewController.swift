@@ -18,8 +18,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() { //Comment 2
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
-        print("The View Loaded!")
-        
+        print("The View Loaded!!")
     }
 
 
@@ -44,7 +43,7 @@ class ViewController: UIViewController {
         
         index = index + 1
         
-        
+        //commit
         
 //        let message1 = "You Are Awesome!"
 //        let message2 = "You Are Great!"
